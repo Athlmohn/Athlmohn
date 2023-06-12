@@ -1,13 +1,13 @@
 [![MasterHead](https://user-images.githubusercontent.com/83378141/119193317-7438e300-ba4f-11eb-8b73-2ddb4fc84af5.gif)](https://github.com/Athlmohn)
 
-<h1 align="center">Hi 👋, I'm Athul Mohan</h1>
+<h1 align="center">Hi , I'm Athul Mohan</h1>
 <h3 align="center">A  frontend developer based on India.</h3>
 
-- 🔭 I’m interested in **Frontend Development**
+- 🔭 I’m interested in **Web Technologies**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Frontend Development**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **reactjs**
 
 - ⚡ Fun fact **"The art challenges the technology, and the technology inspires the art." - John Lasseter**
 
