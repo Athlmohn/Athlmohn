@@ -1,11 +1,11 @@
 [![MasterHead](https://user-images.githubusercontent.com/83378141/119193317-7438e300-ba4f-11eb-8b73-2ddb4fc84af5.gif)](https://github.com/Athlmohn)
 
 <h1 align="center">Hi , I'm Athul Mohan</h1>
-<h3 align="center">A  frontend developer based on India.</h3>
+<h3 align="center">A  Web developer based on India.</h3>
 
 - 🔭 I’m interested in **Web Technologies**
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **MERN stack**
 
 - 💬 Ask me about **reactjs**
 
